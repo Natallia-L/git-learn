@@ -1,0 +1,7 @@
+# no track files .log and .db
+*.log
+*.db
+
+# no track files from target and bin directories 
+target/
+bin/
