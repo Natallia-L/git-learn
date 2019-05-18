@@ -4,3 +4,4 @@
 
 # no track files from target and bin directories 
 bin/
+target/
